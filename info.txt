@@ -1,0 +1,20 @@
+Chess Game
+
+white and black pieces
+pawns
+king
+queen
+knight
+rook
+matrix 8x8
+
+rules associated
+
+a platform where anybody can come and play chess against computer.
+HTML/CSS-Visual part
+JAVASCRIPT - Logic part
+
+
+
+Day 2
+chessboardjs.com
