@@ -80,3 +80,16 @@ npm run website
 [chessboardjs.com]:http://chessboardjs.com
 [chess.js]:https://github.com/jhlywa/chess.js
 [Example 5000]:http://chessboardjs.com/examples#5000
+
+
+
+
+
+
+
+
+#chess-game
+It is a basic chess game we developed as a part of Hackershala Coding Bootcamp.
+Not for production use currently.
+
+#Maintainers
